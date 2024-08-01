@@ -1,4 +1,5 @@
-Trabalho feito por João Pedro Costa Amaral e Carlos Eduardo de Melo Sabino.
+Trabalho feito por João Pedro Costa Amaral na disciplina: Laboratório de Introdução a Programação.
+
 
 link: https://www.tinkercad.com/things/c4fy5CPuN0C-trabalho-tinkercad-genius-
 
